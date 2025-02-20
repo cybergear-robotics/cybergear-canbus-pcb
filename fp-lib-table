@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "mss22d18")(type "KiCad")(uri "${KIPRJMOD}/mss22d18.pretty")(options "")(descr ""))
+)
